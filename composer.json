@@ -1,6 +1,6 @@
 {
   "name": "filament/database-viewer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Database viewer plugin: Database viewer with table browser and data explorer",
   "type": "library",
   "license": "MIT",
