@@ -1,5 +1,5 @@
 {
-  "name": "filaforge/database-viewer",
+  "name": "filament/database-viewer",
   "description": "Database viewer plugin: Database viewer with table browser and data explorer",
   "type": "library",
   "license": "MIT",
